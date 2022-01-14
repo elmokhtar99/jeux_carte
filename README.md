@@ -1,5 +1,4 @@
 # jeux_carte
-Un jeu de carte que j'ai realise
 J'ai decide de realise un jeu de carte que j'ai vu sur internet.
 Les règles du jeu:
 
