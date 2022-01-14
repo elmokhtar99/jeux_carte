@@ -11,3 +11,5 @@ Celui qui a la plus forte carte gagne les deux cartes mais ne les remet pas dans
 Si il y a égalité, les deux cartes sont écartées.
 Et enfin la manche s'arrête quand les 2 joueurs sont arriver à la fin de leur paquet.
 
+Enjoy !
+
