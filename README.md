@@ -1,5 +1,5 @@
 # jeux_carte
-J'ai decide de realise un jeu de carte que j'ai vu sur internet.
+J'ai decide de realiser un jeu de carte que j'ai vu sur internet.
 Les règles du jeu:
 
 - une carte noire est toujours plus forte qu'une rouge.
